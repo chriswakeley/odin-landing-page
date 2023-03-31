@@ -35,7 +35,7 @@ h1 {
 }
 
 .header {
-    padding: 16px 0px;
+    padding: 16px;
     display:flex;
     justify-content: center;
 }
@@ -54,7 +54,7 @@ h1 {
 }
 
 .hero {
-    padding: 64px 0px;
+    padding: 64px 16px;
     display: flex;
     justify-content: center;
     
