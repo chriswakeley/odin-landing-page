@@ -63,6 +63,7 @@ h1 {
 .hero-container {
     width: 100vh;
     display:flex;
+    align-items: flex-start;
     gap: 16px;
 }
 
