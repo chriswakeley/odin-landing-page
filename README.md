@@ -1,4 +1,6 @@
 # odin-landing-page
+Final assignment of the HTML/CSS portion of "Foundations"
+This non-interactive landing page demonstrates the use of HTML and certain CSS tools.  The layout was achieved using Flexbox.  
 
 Photo Attributions
 iguana.jpg : Photo by Chrystian Guedez: https://www.pexels.com/photo/majestic-16132762/
