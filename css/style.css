@@ -158,3 +158,36 @@ h1 {
     font-size: 20px;
     font-weight: bold;
 }
+
+.content-ctoa {
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.ctoa-container {
+    background-color: #3882f6;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    padding: 32px;
+    gap:32px;
+    justify-content: space-evenly;
+}
+
+.ctoa-text {
+    color: white;
+}
+
+.sign-up {
+    border-style: solid;
+    border-color: white;
+}
+
+.ctoa-text h2 {
+    margin: 0;
+}
+.ctoa-text p {
+    margin: 0;
+}
+
+
