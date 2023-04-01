@@ -190,4 +190,7 @@ h1 {
     margin: 0;
 }
 
-
+.footer {
+    padding: 32px;
+    text-align: center;
+}
